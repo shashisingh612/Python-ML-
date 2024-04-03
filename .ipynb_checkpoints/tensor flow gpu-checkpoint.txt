@@ -1,0 +1,5 @@
+import tensorflow as tf
+import random
+import os
+import numpy as np
+print("Num of GPU:", len(tf.config.list_physical_devices('GPU')))
