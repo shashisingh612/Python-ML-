@@ -1,7 +1,7 @@
 import os
 import urllib.request
 from openai import OpenAI
-api_key="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"
+api_key="xxx"
 client = OpenAI(api_key=api_key)
 #client = OpenAI()
 
